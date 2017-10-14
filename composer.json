@@ -1,0 +1,15 @@
+{
+    "name": "root/consulta-massa-placa-sinesp",
+    "description": "Consulta em massa de placas no Sinesp.",
+    "type": "project",
+    "require": {
+        "chapeupreto/sinesp": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vitor Savedra",
+            "email": "vitor-savedra@outlook.com"
+        }
+    ]
+}
